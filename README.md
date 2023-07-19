@@ -1,0 +1,2 @@
+# s1-zm-killcams
+Open source Advanced Warfare Zombie Killcams, credit me if you make a menu or mod with this !
